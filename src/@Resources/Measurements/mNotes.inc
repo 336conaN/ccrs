@@ -1,0 +1,3 @@
+[Variables]
+Header=
+Content=
