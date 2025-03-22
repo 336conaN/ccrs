@@ -31,5 +31,4 @@ BorderWidthOutside=0
 BorderWidthInside=0
 GitHub=336conaN
 CodeBerg=336conaN
-Bluesky=336conan
-Reddit=336conaN
+
