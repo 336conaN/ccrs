@@ -1,0 +1,21 @@
+name: Mirror to Codeberg
+
+on: [push]
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Mirror to Codeberg
+        uses: yesolutions/mirror-action@v0.7.0
+        with:
+          REMOTE: 'https://codeberg.org/336conaN/ccrs.git'
+          PUSH_ALL_REFS: "false"
+          GIT_USERNAME: ${{ secrets.GIT_USERNAME }}
+          GIT_PASSWORD: ${{ secrets.GIT_PASSWORD }}
+
