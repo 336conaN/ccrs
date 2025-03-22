@@ -116,7 +116,7 @@
 ## ⚒️ Configuration
 All configuration and customization is handled through a single `settings.inc` file.  
 When using the default Rainmeter skin location, the file is located at:
-`%USERPROFILE%\Documents\Rainmeter\ccrs\@Resources\settings.inc`
+`%USERPROFILE%\Documents\Rainmeter\Skins\ccrs\@Resources\settings.inc`
 
 Below is a breakdown of the available options:
 
