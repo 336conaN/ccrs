@@ -1,3 +1,7 @@
 * text=auto
 src/** text eol=crlf
+*.png binary
+*.jpg binary
+*.ttf binary
+*.otf binary
 
