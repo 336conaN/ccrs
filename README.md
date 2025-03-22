@@ -4,6 +4,8 @@
   <p align="center"><sup>conaN's cool rainmeter skins</sup></p>
 </div>
 
+<img src="./assets/showcase.png" alt="showcase" width="100%">
+
 ## 🧩 Widgets
 <details>
   <summary><strong>Media Player</strong></summary>
