@@ -19,25 +19,25 @@
 <img src="../assets/themes/gruvbox-light.png" width="100%">  
 
 #### Nord (`Theme=nord`)
-<img src="../assets/themes/nord.png" width="100%">  
+<img src="../assets/themes/nord.png" width="60%">  
 
 #### Rose Pine (`Theme=rosepine`)
-<img src="../assets/themes/rosepine.png" width="100%">  
+<img src="../assets/themes/rosepine.png" width="60%">  
 
 #### Rose Pine - Dawn (`Theme=rosepine-dawn`)
-<img src="../assets/themes/rosepine-dawn.png" width="100%">  
+<img src="../assets/themes/rosepine-dawn.png" width="60%">  
 
 #### Rose Pine - Moon (`Theme=rosepine-moon`)
-<img src="../assets/themes/rosepine-moon.png" width="100%">  
+<img src="../assets/themes/rosepine-moon.png" width="60%">  
 
 #### Tokyo Night - Night (`Theme=tokyonight-night`)
-<img src="../assets/themes/tokyonight-night.png" width="100%">  
+<img src="../assets/themes/tokyonight-night.png" width="60%">  
 
 #### Tokyo Night - Day (`Theme=tokyonight-day`)
-<img src="../assets/themes/tokyonight-day.png" width="100%">  
+<img src="../assets/themes/tokyonight-day.png" width="60%">  
 
 #### Tokyo Night - Moon (`Theme=tokyonight-moon`)
-<img src="../assets/themes/tokyonight-moon.png" width="100%">  
+<img src="../assets/themes/tokyonight-moon.png" width="60%">  
 
 #### Tokyo Night - Storm (`Theme=tokyonight-storm`)
-<img src="../assets/themes/tokyonight-storm.png" width="100%">  
+<img src="../assets/themes/tokyonight-storm.png" width="60%">  
