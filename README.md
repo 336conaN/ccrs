@@ -5,6 +5,7 @@
 <br>
 <img src="./assets/preview.webp" alt="showcase" width="100%">
 <br>
+
 ## 🧩 Widgets
 <details>
   <summary><strong>Media Player</strong></summary>
