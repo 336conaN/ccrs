@@ -1,8 +1,7 @@
 [Variables]
 Base=239, 241, 245
 Text=76, 79, 105
-Accent1=204, 208, 218
-Accent2=230, 233, 239
+Accent=204, 208, 218
 Red=210, 15, 57
 Orange=254, 100, 11
 Yellow=223, 142, 29
