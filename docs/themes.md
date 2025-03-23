@@ -1,0 +1,16 @@
+# 🎨 Themes
+
+#### Catppuccin - Latte (`Theme=catppuccin-latte`)
+#### Catppuccin - Frappe (`Theme=catppuccin-frappe`)
+#### Catppuccin - Macchiato (`Theme=catppuccin-macchiato`)
+#### Catppuccin - Mocha (`Theme=catppuccin-mocha`)
+#### Gruvbox - Dark (`Theme=gruvbox-dark`)
+#### Gruvbox - Light (`Theme=gruvbox-light`)
+#### Nord (`Theme=nord`)
+#### Rose Pine (`Theme=rosepine`)
+#### Rose Pine - Dawn (`Theme=rosepine-dawn`)
+#### Rose Pine - Moon (`Theme=rosepine-moon`)
+#### Tokyo Night - Night (`Theme=tokyonight-night`)
+#### Tokyo Night - Day (`Theme=tokyonight-day`)
+#### Tokyo Night - Moon (`Theme=tokyonight-moon`)
+#### Tokyo Night - Storm (`Theme=tokyonight-storm`)

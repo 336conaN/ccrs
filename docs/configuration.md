@@ -1,7 +1,5 @@
 # ⚒️ Configuration
 
-<br>
-
 The entire configuration is done through a single text file.
 To change settings, edit `settings.inc` in a text editor of your choice and refresh the skins after.
 <br>

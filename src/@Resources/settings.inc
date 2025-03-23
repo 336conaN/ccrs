@@ -20,11 +20,11 @@
 
 [Variables]
 Scale=1
+Transparency=255
 Theme=catppuccin-mocha
+Font=SFMono Nerd Font Mono
 ProfilePicture=#@#Assets\profile.png
 Gallery=C:\Users\conaN\Pictures\Screenshots
-MonoFont=SFMono Nerd Font Mono
-TextFont=SF Pro
 CornerRadiusOutside=8
 CornerRadiusInside=6
 BorderWidthOutside=0
