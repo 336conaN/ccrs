@@ -1,3 +1,5 @@
+;https://www.nordtheme.com
+
 [Variables]
 Base=46, 52, 64
 Text=216, 222, 233
