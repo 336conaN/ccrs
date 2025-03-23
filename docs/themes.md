@@ -1,22 +1,22 @@
 # 🎨 Themes
 
 #### Catppuccin - Latte (`Theme=catppuccin-latte`)
-<img src="../assets/themes/catppuccin-latte.png" width="100%">  
+<img src="../assets/themes/catppuccin-latte.png" width="60%">  
 
 #### Catppuccin - Frappe (`Theme=catppuccin-frappe`)
-<img src="../assets/themes/catppuccin-frappe.png" width="100%">  
+<img src="../assets/themes/catppuccin-frappe.png" width="60%">  
 
 #### Catppuccin - Macchiato (`Theme=catppuccin-macchiato`)
-<img src="../assets/themes/catppuccin-macchiato.png" width="100%">  
+<img src="../assets/themes/catppuccin-macchiato.png" width="60%">  
 
 #### Catppuccin - Mocha (`Theme=catppuccin-mocha`)
-<img src="../assets/themes/catppuccin-mocha.png" width="100%">  
+<img src="../assets/themes/catppuccin-mocha.png" width="60%">  
 
 #### Gruvbox - Dark (`Theme=gruvbox-dark`)
-<img src="../assets/themes/gruvbox-dark.png" width="100%">  
+<img src="../assets/themes/gruvbox-dark.png" width="60%">  
 
 #### Gruvbox - Light (`Theme=gruvbox-light`)
-<img src="../assets/themes/gruvbox-light.png" width="100%">  
+<img src="../assets/themes/gruvbox-light.png" width="60%">  
 
 #### Nord (`Theme=nord`)
 <img src="../assets/themes/nord.png" width="60%">  

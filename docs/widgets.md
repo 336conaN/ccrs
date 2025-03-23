@@ -3,37 +3,37 @@
 At the moment, CCRS has a total of 14 widgets:
 
 ##### Media Player  
-<img src="../assets/player-active.png" width="300">  
-<img src="../assets/player-inactive.png" width="300">
+<img src="../assets/widgets/player-active.png" width="350">  
+<img src="../assets/widgets/player-inactive.png" width="350">
 
 ##### Visualizer  
-<img src="../assets/visualizer-active.png" width="300">  
-<img src="../assets/visualizer-inactive.png" width="300">
+<img src="../assets/widgets/visualizer-active.png" width="350">  
+<img src="../assets/widgets/visualizer-inactive.png" width="350">
 
-##### CMD and PWSH  
-<img src="../assets/cmd.png" width="300">  
-<img src="../assets/pwsh.png" width="300">
+##### cmd and pwsh  
+<img src="../assets/widgets/cmd.png" width="350">  
+<img src="../assets/widgets/pwsh.png" width="350">
 
 ##### Shutdown, Restart, Sign Out and Lock  
-<img src="../assets/shutdown.png" width="100">  
-<img src="../assets/restart.png" width="100">  
-<img src="../assets/signout.png" width="100">  
-<img src="../assets/lock.png" width="100">
+<img src="../assets/widgets/shutdown.png" width="80">  
+<img src="../assets/widgets/restart.png" width="80">  
+<img src="../assets/widgets/signout.png" width="80">  
+<img src="../assets/widgets/lock.png" width="80">
 
 ##### Gallery  
-<img src="../assets/gallery.png" width="300">
+<img src="../assets/widgets/gallery.png" width="350">
 
-##### Note  
-<img src="../assets/note.png" width="300">
+##### Notes  
+<img src="../assets/widgets/notes.png" width="350">
 
 ##### Profile  
-<img src="../assets/profile.png" width="200">
+<img src="../assets/widgets/profile.png" width="170">
 
 ##### Socials  
-<img src="../assets/socials.png" width="200">
+<img src="../assets/widgets/socials.png" width="170">
 
 ##### Clock  
-<img src="../assets/clock.png" width="200">
+<img src="../assets/widgets/clock.png" width="170">
 
 ##### Date  
-<img src="../assets/date.png" width="200">
+<img src="../assets/widgets/date.png" width="170">
