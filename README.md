@@ -4,7 +4,7 @@
   <p align="center"><sup>conaN's cool rainmeter skins</sup></p>
 </div>
 
-<img src="./assets/showcase.png" alt="showcase" width="100%">
+<img src="./assets/preview.webp" alt="showcase" width="100%">
 
 ## 🧩 Widgets
 <details>
