@@ -2,9 +2,9 @@
   <img src="assets/logo.png" alt="logo" width="120" height="120">
   <h3 align="center"><strong>CCRS</strong></h3>
 </div>
-
+<br>
 <img src="./assets/preview.webp" alt="showcase" width="100%">
-
+<br>
 ## 🧩 Widgets
 <details>
   <summary><strong>Media Player</strong></summary>
