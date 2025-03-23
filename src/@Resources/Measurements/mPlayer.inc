@@ -7,7 +7,8 @@ PlayerType=Cover
 Measure=Plugin
 Plugin=MediaPlayer
 PlayerType=State
-Substitute="0":"#@#Icons\play.png","1":"#@#Icons\pause.png","2":"#@#Icons\play.png"
+RegExpSubstitute=1
+Substitute="^0$":"#@#Icons\play.png","^1$":"#@#Icons\pause.png","^2$":"#@#Icons\play.png"
 
 [mTitle]
 Measure=Plugin
