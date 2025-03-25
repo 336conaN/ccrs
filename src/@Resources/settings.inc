@@ -31,4 +31,6 @@ BorderWidthOutside=0
 BorderWidthInside=0
 GitHub=336conaN
 CodeBerg=336conaN
+GifName=wave
+GifFrames=80
 
