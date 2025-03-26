@@ -20,7 +20,6 @@
 
 [Variables]
 Scale=1
-Transparency=255
 Theme=catppuccin-mocha
 Font=SFMono Nerd Font Mono
 ProfilePicture=#@#Assets\profile.png

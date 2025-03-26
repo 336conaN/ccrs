@@ -1,7 +1,7 @@
-[mShutdown]
+[mRestart]
 Measure=Plugin
 Plugin=RunCommand
 Program=Powershell
-Parameter=#@#Measurements\shutdown\shutdown.ps1
+Parameter=#@#Measures\restart\restart.ps1
 OutputType=ANSI
 State=Hide
