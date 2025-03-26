@@ -1,12 +1,12 @@
 ;https://rosepinetheme.com
 
 [Variables]
-Base=25, 23, 36           ;Base
-Text=224, 222, 244        ;Text
-Accent=31, 29, 46         ;Surface
-Red=235, 111, 146         ;Love
-Orange=235, 188, 186      ;Rose
-Yellow=246, 193, 119      ;Gold
-Green=156, 207, 216       ;Foam
-Blue=49, 116, 143         ;Pine
-Pink=196, 167, 231        ;Iris
+Base=25,23,36
+Text=224,222,244
+Accent=31,29,46
+Red=235,111,146
+Orange=235,188,186
+Yellow=246,193,119
+Green=156,207,216
+Blue=49,116,143
+Pink=196,167,231
