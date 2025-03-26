@@ -2,12 +2,12 @@
 Measure=Plugin
 Plugin=InputText
 X=(45*#Scale#+(#BorderWidthOutside#/2))
-Y=(5*#Scale#+(#BorderWidthOutside#/2))
-W=(295*#Scale#)
-H=(25*#Scale#)
+Y=(4*#Scale#+(#BorderWidthOutside#/2))
+W=(301*#Scale#)
+H=(27*#Scale#)
 FontFace=#Font#
-FontSize=(14*#Scale#)
-FontWeight=500
+FontSize=(15*#Scale#)
+FontWeight=400
 FontColor=#Text#
 SolidColor=#Accent#
 DynamicVariables=1
