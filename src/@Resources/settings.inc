@@ -31,4 +31,12 @@ BorderWidthOutside=0
 BorderWidthInside=0
 GifName=wave
 GifFrames=80
+CpuTempIndex=2
+CpuUsageIndex=1
+GpuTempIndex=6
+GpuUsageIndex=7
+DriveTempIndex=4
+DriveUsageIndex=5
+RamTempIndex=3
+RamUsageIndex=0
 
