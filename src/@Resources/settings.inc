@@ -23,8 +23,7 @@ Scale=1
 Theme=catppuccin-mocha
 Font=SFMono Nerd Font Mono
 ProfilePicture=#@#Assets\profile.png
-Name=conaN
-UserName=@336conaN
+UserName=conaN
 Gallery=C:\Users\conaN\Pictures\Screenshots
 CornerRadiusOutside=8
 CornerRadiusInside=6
@@ -52,3 +51,4 @@ GitRepo3PathWindows=\\wsl.localhost\NixOS\home\nixos\dotfiles\.win
 GitRepo4Name=.wsl
 GitRepo4PathWSL=~/dotfiles/.wsl
 GitRepo4PathWindows=\\wsl.localhost\NixOS\home\nixos\dotfiles\.wsl
+
