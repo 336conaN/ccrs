@@ -54,4 +54,14 @@ GitRepo3PathWindows=\\wsl.localhost\NixOS\home\nixos\dotfiles\.win
 GitRepo4Name=.wsl
 GitRepo4PathWSL=~/dotfiles/.wsl
 GitRepo4PathWindows=\\wsl.localhost\NixOS\home\nixos\dotfiles\.wsl
+Folder1Name=Downloads
+Folder1Path=C:\Users\conaN\Downloads
+Folder2Name=Documents
+Folder2Path=C:\Users\conaN\Documents
+Folder3Name=Pictures
+Folder3Path=C:\Users\conaN\Pictures
+Folder4Name=Videos
+Folder4Path=C:\Users\conaN\Videos
+Disk1Label=C:
+Disk2Label=D:
 
