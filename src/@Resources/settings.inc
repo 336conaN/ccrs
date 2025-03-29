@@ -20,12 +20,14 @@
 
 [Variables]
 Scale=1
+TextEditor=notepad.exe
+FileExplorer=explorer.exe
 Theme=catppuccin-mocha
 Font=SFMono Nerd Font Mono
 ProfilePicture=#@#Assets\profile.png
 UserName=conaN
 ShareX=C:\Program Files\ShareX\ShareX.exe
-Screenshots=C:\Users\conaN\Pictures\Screenshots
+ScreenshotsPath=C:\Users\conaN\Pictures\Screenshots
 CornerRadiusOutside=8
 CornerRadiusInside=6
 BorderWidthOutside=0

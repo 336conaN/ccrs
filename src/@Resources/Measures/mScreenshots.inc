@@ -1,7 +1,7 @@
 [mFolder]
 Measure=Plugin
 Plugin=FileView
-Path=#Screenshots#
+Path=#ScreenshotsPath#
 ShowDotDot=0
 ShowFolder=0
 SortType=Date
