@@ -9,6 +9,7 @@ To change settings, edit `settings.inc` in a text editor of your choice and refr
 - **Method 1 (easier)**
 Simply `double right-click` on any loaded CCRS skin to open the config file
 <br>
+
 - **Method 2**
 When using the default Rainmeter skin location, the file is located at:
 `%USERPROFILE%\Documents\Rainmeter\Skins\ccrs\@Resources\settings.inc`
