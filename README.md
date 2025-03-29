@@ -9,11 +9,8 @@
 <div align="center">
   <br>
   <h4><strong><a href="./docs/widgets.md">🧩 Widgets Showcase</a></strong></h6>
-  <h4><strong><a href="./docs/themes.md">🎨 Available Themes</a></strong></h6>
+  <h4><strong><a href="./docs/themes.md">🎨 Themes Showcase</a></strong></h6>
   <h4><strong><a href="./docs/installation.md">📦 Installation</a></strong></h6>
   <h4><strong><a href="./docs/configuration.md">⚒️ Configuration</a></strong></h6>
-  <h4><strong><a href="./docs/feature-requests.md">💡 Feature Requests</a></strong></h6>
-  <h4><strong><a href="./docs/contributing.md">🤝 Contributing</a></strong></h6>
   <br>
 </div>
-
