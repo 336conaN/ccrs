@@ -1,0 +1,2 @@
+[Rainmeter]
+MiddleMouseDownAction=[#@#config.inc]

@@ -1,0 +1,3 @@
+[Rainmeter]
+RightMouseUpAction=[]
+RightMouseDownAction=[]
