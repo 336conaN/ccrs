@@ -1,0 +1,11 @@
+[Variables]
+Background=36,39,58
+Foreground=202,211,245
+Accent1=237,135,150
+Accent2=245,169,127
+Accent3=238,212,159
+Accent4=166,218,149
+Accent5=138,173,244
+Accent6=198,160,246
+Surface=54,58,79
+Border=30,32,48
