@@ -21,18 +21,24 @@
 [Variables]
 Theme=Default
 ; ProfilePicturePath=%USERPROFILE%\Pictures\profile.png
+
 Font=RobotoMono Nerd Font Propo
 FontWeight=600
+
 Scale=1.0
 BorderWidth=1
 CornerRadiusOutside=8
 CornerRadiusInside=6
+
 DisableContextMenu=false
 OpenConfigOnClick=true
+
 ShareXPath=C:\Program Files\ShareX\ShareX.exe
 ; ScreenshotsFolder=%USERPROFILE%\Pictures\Screenshots
+
 VisualizerFrequencyResolution=1024
 VisualizerSensitivity=35.0
+
 CpuTempIndex=2
 CpuUsageIndex=1
 GpuTempIndex=6
@@ -41,12 +47,17 @@ DiskTempIndex=4
 DiskUsageIndex=5
 MemoryTempIndex=3
 MemoryUsageIndex=0
+
 ; Gif1FullPath="%USERPROFILE%\Pictures\wave.png"
 ; Gif1FramesCount=222
 ; Gif1RefreshRate=60
+
 ; Image1="%USERPROFILE%\Pictures\image.png"
+
 ; Shortcut1Icon="%USERPROFILE%\Pictures\explorer.png"
+; Shortcut1Color=#Accent1#
 ; Shortcut1Command="explorer.exe"
+
 ; List1Icon=
 ; List1Entry1Label=Desktop
 ; List1Entry1Command=%USERPROFILE%\Desktop
