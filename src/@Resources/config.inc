@@ -20,7 +20,6 @@
 
 [Variables]
 Theme=Default
-; ProfilePicturePath=%USERPROFILE%\Pictures\profile.png
 
 Font=RobotoMono Nerd Font Propo
 FontWeight=600
@@ -32,6 +31,9 @@ CornerRadiusInside=6
 
 DisableContextMenu=false
 OpenConfigOnClick=true
+
+; WinFetchLogo=%USERPROFILE%\Pictures\Other\windows.png
+; WslFetchLogo=%USERPROFILE%\Pictures\Other\nixos.png
 
 ShareXPath=C:\Program Files\ShareX\ShareX.exe
 ; ScreenshotsFolder=%USERPROFILE%\Pictures\Screenshots
