@@ -1,12 +1,12 @@
 [mInputPowerShell]
 Measure=Plugin
 Plugin=InputText
-X=(50*#Scale#+(#BorderWidth#/2))
-Y=(7*#Scale#+(#BorderWidth#/2))
-W=(292*#Scale#)
-H=(23*#Scale#)
+X=(50#Position#)
+Y=(7#Position#)
+W=(292#Size#)
+H=(23#Size#)
 FontFace=#NerdFont#
-FontSize=(12*#Scale#)
+FontSize=(12#Size#)
 FontWeight=#FontWeightMain#
 FontColor=#Foreground#
 SolidColor=#Surface#

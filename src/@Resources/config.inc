@@ -19,23 +19,33 @@
   ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  
 
 [Variables]
-Scale=1.0
+
 Theme=Default
+Scale=1.0
+
+BorderColor=41,44,60
 BorderWidth=1
-TextFont=SF Pro
+
+TextFont=RobotoMono Nerd Font Propo
 NerdFont=RobotoMono Nerd Font Propo
 FontWeightMain=600
-FontWeightSub=400
+FontWeightSub=500
+
 CornerRadiusOutside=8
 CornerRadiusInside=6
+
 DisableContextMenu=false
 OpenConfigOnClick=true
+
 ; WinFetchLogo=%USERPROFILE%\Pictures\Other\windows.png
 ; WslFetchLogo=%USERPROFILE%\Pictures\Other\linux.png
+
 ShareXPath=C:\Program Files\ShareX\ShareX.exe
 ScreenshotsFolder=%USERPROFILE%\Pictures
+
 VisualizerFrequencyResolution=1024
 VisualizerSensitivity=35.0
+
 CpuTempIndex=2
 CpuUsageIndex=1
 GpuTempIndex=6
@@ -44,10 +54,11 @@ DiskTempIndex=4
 DiskUsageIndex=5
 MemoryTempIndex=3
 MemoryUsageIndex=0
-; Gif1FullPath="%USERPROFILE%\Pictures\wave.png"
-; Gif1FramesCount=222
+
+; Gif1BitMap="%USERPROFILE%\Pictures\wave.png"
+; Gif1FrameCount=222
 ; Gif1RefreshRate=60
+
 ; Shortcut1Icon="%USERPROFILE%\Pictures\explorer.png"
 ; Shortcut1Color=#Accent1#
 ; Shortcut1Command="explorer.exe"
-

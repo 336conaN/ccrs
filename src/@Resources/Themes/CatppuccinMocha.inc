@@ -8,4 +8,3 @@ Accent4=166,227,161
 Accent5=137,180,250
 Accent6=203,166,247
 Surface=49,50,68
-Border=24,24,37

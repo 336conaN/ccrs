@@ -1,9 +1,9 @@
 [Variables]
-ContentX=(20*#Scale#+(#BorderWidth#/2))
-ContentY=(15*#Scale#+(#BorderWidth#/2))
-ContentW=(310*#Scale#)
-ContentH=(295*#Scale#)
-ContentFontSize=(12*#Scale#)
+ContentX=(20#Position#)
+ContentY=(15#Position#)
+ContentW=(310#Size#)
+ContentH=(295#Size#)
+ContentFontSize=(12#Size#)
 ContentFontWeight=#FontWeightMain#
 ColorUsed11=#Accent3#
 ColorUsed12=#Accent2#
