@@ -4,4 +4,3 @@ Plugin=RunCommand
 Parameter=#InputCommandPrompt#
 State=Hide
 DynamicVariables=1
-

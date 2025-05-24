@@ -5,4 +5,3 @@ Program=PowerShell
 Parameter=#InputPowerShell#
 State=Hide
 DynamicVariables=1
-
